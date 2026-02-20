@@ -33,7 +33,10 @@ object orientated programming and web development.</p>
   <li><a href="blank">A Website that makes use of Google API's</a></li>
   <li><a href="blank">A Basic Java Guessing Game</a></li>
 </ul>
+<img src="Screenshot 2026-02-19 205148.png" alt="Google Maps Api Screenshot">
 <h2>Resume</h2>
 <p><a href="ResumeB.pdf">View my resume</a></p>
-
+<h2>Contact</h2>
+<p>0000000@mohawkcollege.ca, (000) 800-0000, Hamilton, ON</p>
+<footer>&#169 Muhammad Mehmood, 2026</footer>
 
