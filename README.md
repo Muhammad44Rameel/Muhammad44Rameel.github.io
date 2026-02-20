@@ -38,5 +38,4 @@ object orientated programming and web development.</p>
 <p><a href="ResumeB.pdf">View my resume</a></p>
 <h2>Contact</h2>
 <p>0000000@mohawkcollege.ca, (000) 800-0000, Hamilton, ON</p>
-<footer>&copy Muhammad Mehmood, 2026</footer>
 
