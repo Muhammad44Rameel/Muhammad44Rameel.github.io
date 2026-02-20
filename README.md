@@ -6,6 +6,27 @@ object orientated programming and web development.</p>
 <h2>Education</h2>
 <h3>Attending Mohawk College</h3>
 <p>Software Development - 559</p>
+<h2>Skills</h2>
+<ul>
+  <li>Programming Languages
+    <ul>
+    <li>Java</li>
+    <li>HTML & CSS</li>
+    <li>Javascript</li>
+    <li>Python</li>
+    <li>C#</li>
+    <li>PHP</li>
+    </ul>
+  </li>
+  <li>Soft Skills
+  <ul>
+    <li>Familiarity with Microsoft Office</li>
+    <li>Communication Skills</li>
+    <li>Adaptability</li>
+    <li>Problem Solving</li>
+  </ul>
+  </li>
+</ul>
 <h2>Projects</h2>
 <ul>
   <li><a href="blank">Cafe's Wordpress Website</a></li>
